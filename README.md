@@ -8,7 +8,7 @@ SCSkypeActivityIndicatorView is an activity indicator view similar to the one se
 ##### Try out the demo project for more details (pod try)
 
 ## License
-SCPageViewController is released under the MIT License (MIT) (see the LICENSE file)
+SCSkypeActivityIndicatorView is released under the MIT License (MIT) (see the LICENSE file)
 
 ## Contact
 Any suggestions or improvements are more than welcome.
