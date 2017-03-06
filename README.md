@@ -3,7 +3,7 @@ SCSkypeActivityIndicatorView is an activity indicator view similar to the one se
 
  Normal Skype look&feel |  Customized
 :--------------------------:|:--------------------------:
-![](https://dl.dropboxusercontent.com/u/12748201/SCSkypeActivityIndicatorView/SCSkypeActivityIndicatorView1.gif) | ![](https://dl.dropboxusercontent.com/u/12748201/SCSkypeActivityIndicatorView/SCSkypeActivityIndicatorView2.gif)
+![](https://drive.google.com/uc?export=download&id=0ByLCkUO90ltoNGdjc2MycjBkV1U) | ![](https://drive.google.com/uc?export=download&id=0ByLCkUO90ltoSTFaX1IzN3RDeFk)
 
 ##### Try out the demo project for more details (pod try)
 
