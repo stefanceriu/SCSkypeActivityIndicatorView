@@ -1,3 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
+target 'SCSkypeActivityIndicatorView' do
+
 pod 'SCSkypeActivityIndicatorView', :path => '../'
+
+end
